@@ -54,7 +54,7 @@ Currently strengthening my AWS fundamentals (EC2, S3, IAM, VPC, Lambda) and Linu
 
 ## Featured Projects
 
-> Projects below reflect my active build roadmap. Each will be linked here as it's completed and documented — see [Repository Strategy](#) in my portfolio plan for the full list in progress.
+> Projects below reflect my active build roadmap. Each will be linked here as it's completed and documented.
 
 | Project | Description | Status |
 |---|---|---|
@@ -64,8 +64,6 @@ Currently strengthening my AWS fundamentals (EC2, S3, IAM, VPC, Lambda) and Linu
 | **CI/CD Pipeline (GitHub Actions)** | Automated build-test-deploy pipeline for a sample application. | 📋 Planned |
 | **Linux Administration Practice Log** | Documented shell scripting, user/permission management, and cron automation exercises. | 📋 Planned |
 | **Python Automation Scripts** | Small scripts automating file handling, AWS boto3 tasks, and basic reporting. | 📋 Planned |
-
-*(Replace status tags and add repo links as each project ships — see the 30-day plan for build order.)*
 
 ---
 
@@ -80,16 +78,24 @@ Currently strengthening my AWS fundamentals (EC2, S3, IAM, VPC, Lambda) and Linu
 
 ---
 
-## Certifications
+## Certifications & Training
 
-> *No certifications listed yet — add here once earned (e.g., AWS Cloud Practitioner). Do not list in-progress study as a certification.*
+| Certification / Course | Provider | Details | Year |
+|---|---|---|---|
+| **AWS Cloud Practitioner Essentials** | AWS Training | 12-week program covering AWS core services, cloud security, architecture, pricing, and support | 2025 |
+| **Cloud Computing and Distributed Systems** | NPTEL (Swayam) | 8-week MOOC on distributed architectures, scalability, and cloud deployment models | — |
+| **Database Management Systems** | Training program | DBMS design, normalization, SQL queries, and implementation | — |
+| **CCC (Course on Computer Concepts)** | NIELIT | Computer fundamentals, MS Office, internet & email, digital financial tools, cyber security basics | May 2023 |
 
 ---
 
 ## Education
 
 **Master of Computer Applications (MCA)** — Specialization: Cloud Computing
-Galgotias University
+Galgotias University, Greater Noida · 2024 – 2026
+
+**Bachelor of Commerce (B.Com)**
+G.F. College, Shahjahanpur · 2021 – 2024
 
 ---
 
