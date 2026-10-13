@@ -3,7 +3,7 @@
 # Zubair Khan
 ### Cloud Computing Fresher | AWS · DevOps · Linux | MCA (Cloud Computing), Galgotias University
 
-📍 Delhi, India &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/zubairrkhan/) &nbsp;|&nbsp; zubairkhan.dev@example.com
+📍 Delhi, India &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/zubairrkhan/) &nbsp;|&nbsp; thinkzubair123@gmail.com
 
 </div>
 
